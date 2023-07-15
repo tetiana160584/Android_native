@@ -50,8 +50,6 @@ public class TestFirst extends BaseClass {
         settingPage.changeStatusBar(SettingPage.StBar.Yes);
     }
 
-
-
 }
 
 
